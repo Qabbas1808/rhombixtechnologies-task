@@ -32,8 +32,7 @@ Some browsers impose stricter restrictions for `file://` pages. Serving via a lo
 ```
 TO-DO-LIST/
 ├─ index.html     # App markup
-├─ styles.css     # UI styles
-└─ script.js      # App logic (localStorage persistence)
+
 ```
 
 ## Notes
@@ -42,5 +41,6 @@ TO-DO-LIST/
 
 ## Optional: Backend
 This app is designed to be client‑only. If you’d like a backend later (Node.js + Express), we can add simple REST endpoints to persist tasks to a file or database.
+
 
 
